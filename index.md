@@ -17,3 +17,4 @@ Lab 7, Part 1
 
 	Out of all the labs, Lab 7 was my absolute favorite and I feel like this lab made me improve the most. The lab was based upon parking and what days you could not park on certain streets. Honestly this lab was mostly fun to me because I have gotten a lot of parking tickets so I was investing in figuring this code out. In this lab I did most of the work myself and I did struggle a lot at times but asked the teachers for help and they came to the rescue and showed me what my errors were and how I could fix and improve my work. I listened to them and found that my code ran much smoother and I imported the knowledge I learned that day into my future projects. I learned how to improve my loops and made my code a lot easier to read.
 
+ 
