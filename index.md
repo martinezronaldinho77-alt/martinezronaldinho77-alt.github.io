@@ -1,7 +1,7 @@
 
 # Ronaldinho Martinez's Portfolio
 
-Hello, I am a electrical engineering major at CSUF and plan on graduating in 2029.
+Hello, I am a electrical engineering major at CSUF and plan on graduating in 2029. Throughout my CPSC 120L course I feel I have learned a lot and would like to share those experiences. [Github Profile](https://github.com/martinezronaldinho77-alt)
 
 ## Favorite CPSC 120L Labs
  
